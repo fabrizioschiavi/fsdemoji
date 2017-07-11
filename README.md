@@ -4,10 +4,12 @@
 
 In this repository requests and suggestions are very welcome!
 
-* * *
+***
 
 ![FSD Emoji 1.0 specimen](https://www.fsd.it/wp-content/uploads/FSD-Emoji-specimen.png)
 
+***
 
+Buy and download the font files [here](https://www.fsd.it/shop/fonts/fsd-emoji/)
  
 © 2017 Fabrizio Schiavi. All right reserved
